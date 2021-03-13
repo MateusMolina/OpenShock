@@ -1,4 +1,10 @@
 # OpenShock
+  ____                ______            __  
+ / __ \___  ___ ___  / __/ /  ___  ____/ /__
+/ /_/ / _ \/ -_) _ \_\ \/ _ \/ _ \/ __/  '_/
+\____/ .__/\__/_//_/___/_//_/\___/\__/_/\_\ 
+    /_/                                     
+
 Simple shock measurement device consisting in 5 main components in the initial prototype:
 - Arduino Nano as microcontroller
 - Accelerometer
